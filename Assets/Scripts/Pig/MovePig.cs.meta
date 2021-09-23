@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af155bf4d4f96d64c84afb7df32dc2c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pigRight: {instanceID: 0}
+  - pigLeft: {instanceID: 0}
+  - pigUp: {instanceID: 0}
+  - pigDown: {instanceID: 0}
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
